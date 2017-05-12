@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/et56728/Desktop/Apps/Relate/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdc71b795bdc5164071807dfae179ce14b37ca2c">
+        <dex dex="/Users/et56728/Desktop/Apps/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f0dc3e2ff212a253cc69237d8b394d2cb1801b28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/et56728/.android/build-cache/d8650753e99f9985ac9d0cbd3e101b56fe394e24/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/et56728/Desktop/Apps/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c96ef1e4447a756e3a5410c8e8b310f1ba321c84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/et56728/.android/build-cache/1ccdb5a3fdb1c97d7ad689145f8cd3305f2d49c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/et56728/Desktop/Apps/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f93aaf9dd3d79ab331446c7315f5d49721a98888/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/et56728/.android/build-cache/53dee69b6248b8a4d1bf136e90cfa10a976c0a3d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/et56728/Desktop/Apps/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3450d86e09f8126d90772d06f183ff4aa712c84a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/et56728/.android/build-cache/b9d2aedb3a658edc17efde36a8899331794c8c49/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/et56728/Desktop/Apps/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f37ad4d244c58ae8f6aa929e01478490ae18f35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/et56728/.android/build-cache/0a54f955805ef10716817d5543a6a1cfd9663549/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/et56728/Desktop/Apps/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f21c73a0719a14538abef48d2531682c039c0fb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/et56728/.android/build-cache/634b9f3ad01ac778087aea645910a224ee4ea857/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/et56728/Desktop/Apps/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ddc868ca59e54f97ec65f855514d5bda00c1a335/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/et56728/.android/build-cache/ecb26726e4cc7fd0baccfccdc8e0dc67e3adf51c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/et56728/Desktop/Apps/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70c57b30728b80a7588b439d993c3a19a658ddab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/et56728/.android/build-cache/afb31a9e23ca66b493f61f4d7ea20e864bf2b285/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/et56728/Desktop/Apps/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_293d36a37e94c6bc4c11d2179cafa44ea3f3b48f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/et56728/.android/build-cache/77c230e88d9699566276662427e8a77c79276ba4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/et56728/Desktop/Apps/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca0a782c60a75d8b7872e3765640b2d54f33a766/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/et56728/.android/build-cache/cb3528f0d60992519b378ac54ac21dc563e210a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/et56728/Desktop/Apps/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f633b811f773f433524cfb557f30e8a51728a8a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/et56728/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/et56728/Desktop/Apps/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_4016af720bfb6bfd3c6d03adf82c0ad09ca35873/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/et56728/.android/build-cache/7e3912e854565f2c3c155e3b6282afce5ab4bdb3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/Users/et56728/Desktop/Apps/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22ded2f6a352bacd3037a851333701bfc063d5b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/et56728/.android/build-cache/f22b8a787ef7e0e4c94aeda71bdb70373d3a62f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/et56728/Desktop/Apps/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61add886c17cbb37690d7597de498eddb403a7e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/et56728/Desktop/Apps/Relate/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/et56728/Desktop/Apps/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4723d51244fa6ecdd00660ed191553e7b8cff996/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/et56728/.android/build-cache/fd49c7905dacc099e0d212c5cab2dda132434346/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/et56728/Desktop/Apps/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fed22fde5e0fc3528437144f342f9e821ce2f888/classes.dex" />
+    </item>
+
+</items>
